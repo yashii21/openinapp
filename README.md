@@ -1,3 +1,4 @@
+# My first NLP project(ENGLISH -HINGLISH TRANSLATION)
 # In this machine learning project, we will develop a Language Translator using a many-to-many encoder-decoder sequence model. We will train our model using LSTM which will convert English text to hinglish where English will be input text and Hinglish will be the target text. For this, we will be using English-Hindi dataset and  the dataset provided as the test data set.
 
 1. Import Libraries and initialize variables.
